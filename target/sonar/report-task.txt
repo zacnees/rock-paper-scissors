@@ -1,0 +1,6 @@
+projectKey=com.mcnz.rps:roshambo
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/com.mcnz.rps:roshambo
+ceTaskId=AWctlBIMKUvMfjX8AFJc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWctlBIMKUvMfjX8AFJc
